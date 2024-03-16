@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199" height="48" viewBox="0 0 199 48">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="199" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <text id="Xưởng_" data-name="Xưởng " transform="translate(36 29)" fill="#070606" font-size="35" font-family="DFVN-Afronaut-Regular, DFVN Afronaut"><tspan x="0" y="0">Xưởng </tspan></text>
+    <text id="Film" transform="translate(107 44)" fill="#070606" font-size="15" font-family="SegoeUI-LightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="0" y="0">Film</tspan></text>
+  </g>
+</svg>
